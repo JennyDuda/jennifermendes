@@ -50,7 +50,7 @@ Cada repositório terá um `README.md` próprio, detalhando objetivo, dataset, f
 
 ✉️ Email: [duda.jennifers2@gmail.com]  
 🔗 LinkedIn: [https://www.linkedin.com/in/jennifer-eduarda-de-freitas-mendes-b50b3b236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
-🐙 GitHub: [github.com/JennyDuda]  
+🐙 GitHub: [https://www.github.com/JennyDuda]  
 
 ---
 
