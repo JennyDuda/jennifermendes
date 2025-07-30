@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Jennifer Eduarda
+# 👋 Olá! Me chamo Jennifer Eduarda de Freitas Mendes
 
 🎓 Profissional formada em **Big Data e Inteligência Analítica**  
 📍 Belo Horizonte – MG  
