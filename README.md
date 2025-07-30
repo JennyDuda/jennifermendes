@@ -54,4 +54,4 @@ Cada repositório terá um `README.md` próprio, detalhando objetivo, dataset, f
 
 ---
 
-⭐ Se você também acredita no poder dos dados para transformar decisões, vamos conversar!
+⭐ Se você também acredita no poder dos dados para transformar o mundo, vamos conversar!
